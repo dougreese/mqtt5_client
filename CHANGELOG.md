@@ -1,3 +1,13 @@
+# 3.2.2
+Cherry pick from 3.3.0+ releases:
+
+Issue #26 - fix unsubscribe bug
+PR #27 - shrink the message stream don't clear it
+Issue #29 - Clear messageStream when disconnect
+Issue #28 - Save the connect message in connect
+Issue #30 - Duplicate add of user properties...
+Issue #33 - MessageExpiryInterval should be Four Byte Integer
+
 # 3.2.1
 Issue 22
 
